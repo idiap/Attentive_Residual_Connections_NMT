@@ -1,6 +1,6 @@
 ## Description
 
-Implementation and output data of "Global-Context Neural Machine Translation through Target-Side Attentive Residual Connections".
+Implementation and output data of "Self-Attentive Residual Decoder for Neural Machine Translation".
 
 This work is based on the dl4mt-tutorial by [Kyunghyun Cho et al.](https://github.com/nyu-dl/dl4mt-tutorial).
 
@@ -28,14 +28,14 @@ python plot.py data/es-en/newstest2013.es data/es-en/attentive_newstest2013.en 1
 
 ## Reference:
 
->Miculicich, L., Pappas, N., Ram, D., & Popescu-Belis, A. (2017). Global-Context Neural Machine Translation through Target-Side Attentive Residual Connections. arXiv preprint arXiv:1709.04849.(https://arxiv.org/pdf/1709.04849.pdf)
+>Miculicich, L., Pappas, N., Ram, D., & Popescu-Belis, A. (2018). Self-Attentive Residual Decoder for Neural Machine Translation. NAACL-HLT 2018.(http://publications.idiap.ch/downloads/papers/2018/MiculicichWerlen_NAACL_2018.pdf)
 
 ```
-@article{miculicich2017global,
-  title={Global-Context Neural Machine Translation through Target-Side Attentive Residual Connections},
-  author={Miculicich, Lesly and Pappas, Nikolaos and Ram, Dhananjay and Popescu-Belis, Andrei},
-  journal={arXiv preprint arXiv:1709.04849},
-  year={2017}
+@inproceedings{werlenself,
+  title={Self-Attentive Residual Decoder for Neural Machine Translation},
+  author={Werlen, Lesly Miculicich and Pappas, Nikolaos and Ram, Dhananjay and Popescu-Belis, Andrei}
+  booktitle={Proceedings of the Conference of the North American Chapter of the Association for Computational Linguistics}
+  year={2018}
 }
 ```
 
