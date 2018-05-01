@@ -28,7 +28,7 @@ python plot.py data/es-en/newstest2013.es data/es-en/attentive_newstest2013.en 1
 
 ## Reference:
 
->Miculicich, L., Pappas, N., Ram, D., & Popescu-Belis, A. (2018). Self-Attentive Residual Decoder for Neural Machine Translation. NAACL-HLT 2018.(http://publications.idiap.ch/downloads/papers/2018/MiculicichWerlen_NAACL_2018.pdf)
+>Miculicich, L., Pappas, N., Ram, D., & Popescu-Belis, A. (2018). [Self-Attentive Residual Decoder for Neural Machine Translation. NAACL-HLT 2018](http://publications.idiap.ch/downloads/papers/2018/MiculicichWerlen_NAACL_2018.pdf)
 
 ```
 @inproceedings{werlenself,
